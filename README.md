@@ -5,13 +5,15 @@
 ## 📸 Скриншоты
 
 ### 1. Работающее приложение
-![Приложение](app.png)
+<img width="1875" height="1020" alt="Снимок экрана 2026-10-07 103520" src="https://github.com/user-attachments/assets/dc941a09-27ff-497a-b40e-b8de607bcb46" />
 
 ### 2. GitHub Actions — успешный CI/CD
-![Actions](actions.png)
+<img width="1628" height="726" alt="Снимок экрана 2026-10-07 104220" src="https://github.com/user-attachments/assets/f44af85f-c26d-48c1-9b86-3339b56092a8" />
+
 
 ### 3. GitHub Release v1.0.0 — 3 бинарника
-![Release](release.png)
+<img width="1563" height="822" alt="Снимок экрана 2026-10-07 104228" src="https://github.com/user-attachments/assets/a9e9046f-1ead-475f-81b9-008cc9b5abb2" />
+
 
 ## ⬇️ Скачать
 
